@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900" viewBox="0 0 800 900">
+  <rect width="100%" height="100%" fill="#f2f2f2"/>
+  <rect x="70" y="70" width="660" height="760" rx="20" fill="#ffffff" stroke="#7B542F" stroke-width="6"/>
+  <text x="400" y="430" text-anchor="middle" font-size="42" fill="#4B2E2B" font-family="Arial">Owner Photo</text>
+  <text x="400" y="490" text-anchor="middle" font-size="26" fill="#8C5A3C" font-family="Arial">Replace with provided image</text>
+</svg>
